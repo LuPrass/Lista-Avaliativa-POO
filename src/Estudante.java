@@ -20,4 +20,15 @@ public class Estudante {
         }
         return soma / 5;
     }
+    public double calculaMedia(int[] pesos) {
+        double somaPonderada = 0;
+        int somaPesos = 0;
+
+        for (int i = 0; i < 5; i++) {
+            somaPonderada += this.notas[i] * pesos[i];
+            somaPesos += pesos[i];
+        }
+
+        return somaPonderada / somaPesos;
+    }
 }
