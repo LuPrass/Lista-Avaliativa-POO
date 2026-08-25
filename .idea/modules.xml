@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Lista-Avaliativa-POO.iml" filepath="$PROJECT_DIR$/.idea/Lista-Avaliativa-POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista-Avaliativa-POO/avaliacao_lampada/avaliacao_lampada.iml" filepath="$PROJECT_DIR$/Lista-Avaliativa-POO/avaliacao_lampada/avaliacao_lampada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista-Avaliativa-POO/exercicios/exercicios.iml" filepath="$PROJECT_DIR$/Lista-Avaliativa-POO/exercicios/exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/exercicios_java.iml" filepath="$PROJECT_DIR$/.idea/exercicios_java.iml" />
     </modules>
   </component>
 </project>
