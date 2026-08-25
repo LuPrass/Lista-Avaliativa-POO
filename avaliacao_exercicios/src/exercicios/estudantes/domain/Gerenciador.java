@@ -1,4 +1,4 @@
-package exercicios.biblioteca   .domain;
+package exercicios.estudantes.domain;
 
 public class Gerenciador {
 

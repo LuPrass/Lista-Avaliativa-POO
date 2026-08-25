@@ -1,4 +1,5 @@
-    public class Estudante {
+package exercicios.estudantes.domain;
+public class Estudante {
         private String nome;
         private double[] notas;
 
