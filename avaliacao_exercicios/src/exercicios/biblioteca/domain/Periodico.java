@@ -1,4 +1,5 @@
-    public class Periodico extends ItemAcervo {
+package exercicios.biblioteca.domain;
+public class Periodico extends ItemAcervo {
         private int volume;
 
         public Periodico(String titulo, int volume) {

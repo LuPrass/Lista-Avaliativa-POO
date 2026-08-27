@@ -3,7 +3,7 @@ package exercicios.estudantes.test;
 import exercicios.estudantes.domain.Estudante;
 import exercicios.estudantes.domain.Gerenciador;
 
-public class TesteEstudantes {
+public class TesteEstudante {
     public static void main(String[] args) {
         // 1. Criando estudantes e inserindo notas
         Estudante e1 = new Estudante("Lucas");

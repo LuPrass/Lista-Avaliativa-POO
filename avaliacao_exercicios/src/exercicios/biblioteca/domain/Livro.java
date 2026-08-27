@@ -1,3 +1,4 @@
+package exercicios.biblioteca.domain;
 public class Livro extends ItemAcervo {
     private boolean disponivel;
 

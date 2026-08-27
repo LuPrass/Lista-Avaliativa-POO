@@ -1,3 +1,4 @@
+package exercicios.biblioteca.domain;
 public class ItemAcervo {
     private String titulo;
 
